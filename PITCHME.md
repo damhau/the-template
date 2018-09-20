@@ -121,6 +121,8 @@ With a team of 8 and in 3 months.
 
 ### Demo
 
-1. Ansible roles and playbook
-2. Ipmigrator http://ipmigrator.it.actelion.com
-3. Awx/Tower http://chbsuv-netops1.it.actelion.com:8052
+#### Ansible roles and playbook
+#### Ipmigrator 
+http://ipmigrator.it.actelion.com
+#### Awx/Tower 
+http://chbsuv-netops1.it.actelion.com:8052
