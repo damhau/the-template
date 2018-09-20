@@ -1,11 +1,11 @@
-@title[Split-Screen Templates]
+@title[Automation]
 
-## @color[black](Split-Screen<br> Slide Templates)
-
+## @color[black](Automation<br> Slide Templates)
+How to migrate thousands of ip with little ressources and time.
 @fa[arrow-down text-black]
 
 @snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
+[Damien Hauser](http://www.dhconsulting.ch)
 @snapend
 
 +++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
