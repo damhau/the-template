@@ -1,8 +1,8 @@
 @title[Automation]
 
-## Automation<br> Slide Templates
+## Automation<br> @Actelion
 How to migrate thousands of ip with little ressources and time.
-@fa[fa-heart]
+@fa[fa-heart text-white]
 
 @snap[south docslink span-50]
 [Damien Hauser](http://www.dhconsulting.ch)
