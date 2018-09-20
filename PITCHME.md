@@ -25,7 +25,7 @@ Topics to be covered today
 @olend
 @snapend
 
-+++?image=template/img/bg/pink.jpg&position=left&size=70% 100%
++++?image=template/img/bg/pink.jpg&position=left&size=50% 100%
 @title[Heading + List Body]
 
 @snap[east split-screen-heading text-pink span-50]
