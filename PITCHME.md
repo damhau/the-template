@@ -29,37 +29,31 @@ Topics to be covered today
 @title[Heading + List Body]
 
 @snap[east split-screen-heading text-pink span-50]
-Top<br>Tips!
+Infrastructure
 @snapend
 
 @snap[west text-white span-65]
 @ul[split-screen-list](false)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+- Virtualization: Vmware Vsphere
+- DNS: Infoblox
+- Load Balancers: F5
+- Firewall: Checkpoint
 @ulend
 @snapend
 
 @snap[south-west template-note text-white]
-Split-screen heading and list body template.
+Most of the infrastructure is supported out of the box by Ansible
 @snapend
 
 
-+++?image=template/img/bg/black.jpg&position=right&size=50% 100%
-@title[Text + Image]
++++
+### The solution
 
-@snap[east split-screen-byline text-white]
-Lorem ipsum sit dolor amet, consectetur elit.
-@snapend
-
-@snap[west split-screen-img]
-![DEVELOPER](template/img/developer.jpg)
-@snapend
-
-@snap[south-west template-note text-gray]
-Split-screen text and image template.
-@snapend
+- Database with the inventory of the existing vm
+- Web application for the team doing the migration
+- Ansible to automate the change
+- Awx/Tower to provide a rest api to start Ansible playbook and a dynamic inventory based on the database
+- Pdf report for the quality team
 
 
 +++?image=template/img/bg/green.jpg&position=left&size=50% 100%
