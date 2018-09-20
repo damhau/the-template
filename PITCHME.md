@@ -90,7 +90,7 @@ Note: don't forget the mighty GXP
 @snapend
 
 @snap[south-west template-note text-gray]
-#### Cost: open source software
+@size[2em](Cost: open source software)
 @snapend
 
 
