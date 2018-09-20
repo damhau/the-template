@@ -98,7 +98,7 @@ With a team of 8 and in 3 months.
 @snapend
 
 
-+++
++++?image=template/img/bg/blue.jpg
 
 ### Lesson learned
 
@@ -106,7 +106,7 @@ With a team of 8 and in 3 months.
 2. Don't assume specific config on every systems (even if it should be the case): Disabling UAC on Windows was a PITA !
 3. There is never enough communication and documentation
 
-+++?image=template/img/bg/blue.jpg
++++
 
 ### Demo
 
