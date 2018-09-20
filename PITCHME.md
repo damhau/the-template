@@ -45,6 +45,20 @@ Infrastructure
 Most of the infrastructure is supported out of the box
 @snapend
 
++++?image=template/img/bg/purple.jpg&position=left&size=50% 100%
+@title[GXP: Qualifications]
+
+@snap[east split-screen-heading text-pink span-50]
+GXP: Qualifications
+@snapend
+
+@snap[west text-white span-65]
+Workshop with the quality team and qualify the whole automation system
+@snapend
+
+@snap[south-west template-note text-white]
+Note: don't forget the mighty GXP
+@snapend
 
 +++
 @title[Solution]
