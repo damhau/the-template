@@ -26,6 +26,16 @@ Topics to be covered today
 @olend
 @snapend
 
++++
+
+### Project
+
+- Automate the migration to the new ip plan (Windows and Linux)
+- Take care of any dependancy (F5, Infoblox, Firewall, etc...)
+- Short deadline and small team
+- Keep the systems validated :-)
+
+
 +++?image=template/img/bg/pink.jpg&position=left&size=50% 100%
 @title[Infrastructure]
 
