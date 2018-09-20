@@ -1,4 +1,3 @@
----?image=template/img/pencils.jpg
 @title[Split-Screen Templates]
 
 ## @color[black](Split-Screen<br> Slide Templates)
