@@ -23,6 +23,7 @@ Topics to be covered today
 - Solution
 - Result
 - Lessons learned
+- Demo
 @olend
 @snapend
 
@@ -59,7 +60,7 @@ Most of the infrastructure is supported out of the box
 +++
 @title[GXP: Qualifications]
 
-@snap[east split-screen-heading text-pink span-25]
+@snap[east split-screen-heading text-green span-25]
 GXP
 @snapend
 
