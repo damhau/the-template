@@ -56,7 +56,7 @@ GXP: Qualifications
 Workshop with the quality team and qualify the whole automation system
 @snapend
 
-@snap[south-west template-note text-white]
+@snap[south-east template-note text-white]
 Note: don't forget the mighty GXP
 @snapend
 
@@ -78,7 +78,7 @@ Note: don't forget the mighty GXP
 @snapend
 
 @snap[south-west template-note text-gray]
-Split-screen text and image template.
+Cost: open source software
 @snapend
 
 
