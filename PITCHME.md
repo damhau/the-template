@@ -17,16 +17,13 @@ Topics to be covered today
 
 @snap[east text-white span-45]
 @ol[split-screen-list](false)
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
+- Project
+- Infrastructure
+- Solution
+- Result
+- Lessons learned
 @olend
 @snapend
-
-@snap[south-west template-note text-gray]
-Split-screen heading and list body template.
-@snapend
-
 
 +++?image=template/img/bg/pink.jpg&position=left&size=70% 100%
 @title[Heading + List Body]
