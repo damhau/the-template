@@ -45,7 +45,7 @@ Infrastructure
 Most of the infrastructure is supported out of the box
 @snapend
 
-+++?image=template/img/bg/purple.jpg&position=left&size=50% 100%
++++
 @title[GXP: Qualifications]
 
 @snap[east split-screen-heading text-pink span-25]
