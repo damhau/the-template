@@ -106,7 +106,7 @@ We sucessfully migrated the VMs...
 @snapend
 
 @snap[east split-screen-text text-white]
-With a team of 8 and in 3 months.
+With a team of 8 in 3 months.
 @snapend
 
 
