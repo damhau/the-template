@@ -48,11 +48,11 @@ Most of the infrastructure is supported out of the box
 +++?image=template/img/bg/purple.jpg&position=left&size=50% 100%
 @title[GXP: Qualifications]
 
-@snap[east split-screen-heading text-pink span-50]
+@snap[east split-screen-heading text-pink span-25]
 GXP: Qualifications
 @snapend
 
-@snap[west text-white span-65]
+@snap[west text-white span-75]
 Workshop with the quality team and qualify the whole automation system
 @snapend
 
