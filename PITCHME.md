@@ -49,12 +49,13 @@ Most of the infrastructure is supported out of the box by Ansible
 +++
 @title[Solution]
 
-@snap[east split-screen-byline text-white]
-- Database with the inventory of the existing vm
-- Web application for the team doing the migration
-- Ansible to automate the change
-- Awx/Tower to provide a rest api to start Ansible playbook and a dynamic inventory based on the database
-- Pdf report for the quality team
+@snap[east text-white span-65]
+@ul[split-screen-list](false)
+- Virtualization: Vmware Vsphere
+- DNS: Infoblox
+- Load Balancers: F5
+- Firewall: Checkpoint
+@ulend
 @snapend
 
 @snap[west split-screen-img]
