@@ -68,40 +68,25 @@ Split-screen text and image template.
 @snapend
 
 
-+++?image=template/img/bg/green.jpg&position=left&size=50% 100%
+
+
+
++++?image=template/img/bg/black.jpg&position=left&size=50% 100%
 @title[Result]
 
 @snap[west split-screen-byline text-white]
 We sucessfully migrated the VMs...
 @snapend
 
-@snap[east split-screen-img fragment]
-![SUCESS](template/img/sucess.jpg)
+@snap[midpoint split-screen-img]
+![DEVELOPER](template/img/sucess.jpg)
 @snapend
 
-@snap[south-west template-note text-white]
+@snap[east split-screen-text text-black]
 With a team of 8 and in 3 months.
 @snapend
 
 
-+++?image=template/img/bg/black.jpg&position=left&size=50% 100%
-@title[Text + Image Centered]
-
-@snap[west split-screen-byline text-white]
-Lorem ipsum<br>sit dolor amet, consectetur elit.
-@snapend
-
-@snap[midpoint split-screen-img]
-![DEVELOPER](template/img/developer.jpg)
-@snapend
-
-@snap[east split-screen-text text-black]
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-@snapend
-
-@snap[south-west template-note text-white]
-Split-screen text and centered image template.
-@snapend
 
 
 +++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
