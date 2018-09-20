@@ -116,7 +116,7 @@ With a team of 8 in 3 months.
 
 1. Quality of the inventory is very important
 2. Don't assume specific config on every systems (even if it should be the case): Disabling UAC on Windows was a PITA !
-3. When no api is avaialble the Ansible shell module is your friend
+3. When a system doens't have an api the Ansible shell module is your friend  @fa[fa-frown-o]
 4. There is never enough communication and documentation
 
 +++
