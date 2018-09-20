@@ -1,8 +1,8 @@
 @title[Automation]
 
-## @color[black](Automation<br> Slide Templates)
+## Automation<br> Slide Templates
 How to migrate thousands of ip with little ressources and time.
-@fa[arrow-down text-black]
+@fa[fa-heart]
 
 @snap[south docslink span-50]
 [Damien Hauser](http://www.dhconsulting.ch)
