@@ -51,16 +51,16 @@ Most of the infrastructure is supported out of the box by Ansible
 
 @snap[east text-white span-65]
 @ul[split-screen-list](false)
-Database with the inventory of the existing vm
-Web application for the team doing the migration
-Ansible to automate the change
-Awx/Tower to provide a rest api to start Ansible playbook and a dynamic inventory based on the database
+- Database with the inventory
+- Web application for the team doing the migration
+- Ansible to automate the change
+- Awx/Tower to provide a rest api 
 - Pdf report for the quality team
 @ulend
 @snapend
 
 @snap[west split-screen-img]
-![DEVELOPER](template/img/keep-calm-we-have-the-solution-11.png)
+![SOLUTION](template/img/keep-calm-we-have-the-solution-11.png)
 @snapend
 
 @snap[south-west template-note text-gray]
