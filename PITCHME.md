@@ -9,7 +9,7 @@ How to migrate thousands of ip with little ressources and time.
 @snapend
 
 +++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
-@title[Heading + List Body]
+@title[Topics]
 
 @snap[west split-screen-heading text-orange span-50]
 Topics to be covered today
@@ -26,7 +26,7 @@ Topics to be covered today
 @snapend
 
 +++?image=template/img/bg/pink.jpg&position=left&size=50% 100%
-@title[Heading + List Body]
+@title[Infrastructure]
 
 @snap[east split-screen-heading text-pink span-50]
 Infrastructure
@@ -69,7 +69,7 @@ Split-screen text and image template.
 
 
 +++?image=template/img/bg/green.jpg&position=left&size=50% 100%
-@title[Result
+@title[Result]
 
 @snap[west split-screen-byline text-white]
 We sucessfully migrated the VMs...
