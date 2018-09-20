@@ -19,6 +19,7 @@ Topics to be covered today
 @ol[split-screen-list](false)
 - Project
 - Infrastructure
+- GXP
 - Solution
 - Result
 - Lessons learned
@@ -49,7 +50,7 @@ Most of the infrastructure is supported out of the box
 @title[GXP: Qualifications]
 
 @snap[east split-screen-heading text-pink span-25]
-GXP: Qualifications
+GXP
 @snapend
 
 @snap[west text-white span-75]
