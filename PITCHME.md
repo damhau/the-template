@@ -34,7 +34,7 @@ Infrastructure
 
 @snap[west text-white span-65]
 @ul[split-screen-list](false)
-- Virtualization: Vmware Vsphere
+- Virtualization: Vmware
 - DNS: Infoblox
 - Load Balancers: F5
 - Firewall: Checkpoint
@@ -42,7 +42,7 @@ Infrastructure
 @snapend
 
 @snap[south-west template-note text-white]
-Most of the infrastructure is supported out of the box by Ansible
+Most of the infrastructure is supported out of the box
 @snapend
 
 
@@ -68,9 +68,6 @@ Split-screen text and image template.
 @snapend
 
 
-
-
-
 +++?image=template/img/bg/black.jpg&position=left&size=50% 100%
 @title[Result]
 
@@ -89,21 +86,10 @@ With a team of 8 and in 3 months.
 
 
 
-+++?image=template/img/bg/pink.jpg&position=right&size=50% 100%
-@title[Text + Image Centered]
+---
 
-@snap[east split-screen-text text-white]
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-@snapend
+### Lesson learned
 
-@snap[midpoint split-screen-img]
-![DEVELOPER](template/img/developer.jpg)
-@snapend
-
-@snap[west split-screen-byline]
-Lorem ipsum<br>sit dolor amet, consectetur elit.
-@snapend
-
-@snap[south-west template-note text-gray]
-Split-screen text and centered image template.
-@snapend
+Quality of the inventory is very important
+Don't assume specific config on every systems (even if it should be the case): Disabling UAC on Windows was a PITA !
+There is never enough communication and documentation
