@@ -69,18 +69,18 @@ Split-screen text and image template.
 
 
 +++?image=template/img/bg/green.jpg&position=left&size=50% 100%
-@title[Text + Image Fragment]
+@title[Result
 
 @snap[west split-screen-byline text-white]
-Lorem ipsum sit dolor amet, consectetur elit.
+We sucessfully migrated the VMs...
 @snapend
 
 @snap[east split-screen-img fragment]
-![DEVELOPER](template/img/developer.jpg)
+![SUCESS](template/img/sucess.jpg)
 @snapend
 
 @snap[south-west template-note text-white]
-Split-screen text and image-fragment template.
+With a team of 8 and in 3 months.
 @snapend
 
 
