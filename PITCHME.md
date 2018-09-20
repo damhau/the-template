@@ -79,17 +79,23 @@ We sucessfully migrated the VMs...
 ![DEVELOPER](template/img/sucess.jpg)
 @snapend
 
-@snap[east split-screen-text text-black]
+@snap[east split-screen-text text-white]
 With a team of 8 and in 3 months.
 @snapend
 
 
-
-
----
++++
 
 ### Lesson learned
 
 1. Quality of the inventory is very important
 2. Don't assume specific config on every systems (even if it should be the case): Disabling UAC on Windows was a PITA !
 3. There is never enough communication and documentation
+
++++?image=template/img/bg/blue.jpg
+
+### Demo
+
+1. Ansible roles and playbook
+2. Ipmigrator http://ipmigrator.it.actelion.com
+3. Awx/Tower http://chbsuv-netops1.it.actelion.com:8052
