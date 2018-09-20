@@ -111,7 +111,7 @@ With a team of 8 and in 3 months.
 
 +++?image=template/img/bg/blue.jpg
 
-### Lesson learned
+## Lesson learned
 
 1. Quality of the inventory is very important
 2. Don't assume specific config on every systems (even if it should be the case): Disabling UAC on Windows was a PITA !
@@ -119,10 +119,8 @@ With a team of 8 and in 3 months.
 
 +++
 
-### Demo
+## Demo
 
 #### Ansible roles and playbook
-#### Ipmigrator 
-http://ipmigrator.it.actelion.com
-#### Awx/Tower 
-http://chbsuv-netops1.it.actelion.com:8052
+#### Ipmigrator http://ipmigrator.it.actelion.com
+#### Awx/Tower http://chbsuv-netops1.it.actelion.com:8052
