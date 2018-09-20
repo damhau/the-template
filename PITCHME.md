@@ -114,10 +114,7 @@ With a team of 8 in 3 months.
 
 ## Lesson learned
 
-1. Quality of the inventory is very important
-2. Don't assume specific config on every systems (even if it should be the case): Disabling UAC on Windows was a PITA !
-3. When a system doens't have an api the Ansible shell module is your friend
-4. There is never enough communication and documentation
+
 @fa[fa-frown-o](Sounds good to me!)
 
 +++
